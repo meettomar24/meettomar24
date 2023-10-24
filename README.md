@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @meettomar24
+- 👀 I’m interested in Fullstack Web Developer
+- 🌱 I’m currently learning Angular.
+- 📫 reach me through meetm7.mt@gmail.com.
